@@ -1,0 +1,12 @@
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\bin\Debug\HiTechDatabase.dll
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\bin\Debug\HiTechDatabase.pdb
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\obj\Debug\HiTechDatabase.csproj.AssemblyReference.cache
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\obj\Debug\HiTechDatabase.csproj.CoreCompileInputs.cache
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\obj\Debug\HiTechDatabase.dll
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\obj\Debug\HiTechDatabase.pdb
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\bin\Debug\HiTechDatabase.dll.config
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\bin\Debug\EntityFramework.dll
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\bin\Debug\EntityFramework.xml
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Multi-tier application\Projects\Hi-Tech_Management_Final_Project\HiTechDatabase\obj\Debug\HiTechDatabase.csproj.CopyComplete
